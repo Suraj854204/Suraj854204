@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://suraj-portfolio-omega-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://ai-code-companion-v1-web-app.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
 
 <br/>
@@ -62,7 +63,7 @@ Noida · Bengaluru · Gurugram · Pune · Hyderabad (also open to Ghaziabad and 
 
 <div align="center">
 
-[**📬 Email me**](mailto:surajkumar854000@gmail.com) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/suraj-singh-b0962830a) &nbsp;·&nbsp; [**🚀 Live demo**](https://ai-code-companion-v1-web-app.vercel.app/) &nbsp;·&nbsp; [**📂 All repositories**](https://github.com/Suraj854204?tab=repositories)
+[**📬 Email me**](mailto:surajkumar854000@gmail.com) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/suraj-singh-b0962830a) &nbsp;·&nbsp; [**🌐 Portfolio**](https://suraj-portfolio-omega-five.vercel.app/) &nbsp;·&nbsp; [**🚀 Live demo**](https://ai-code-companion-v1-web-app.vercel.app/) &nbsp;·&nbsp; [**📂 All repositories**](https://github.com/Suraj854204?tab=repositories)
 
 </div>
 
@@ -545,6 +546,7 @@ I'm actively looking for **entry-level Software Engineering, Backend and Full-St
 
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email_me-surajkumar854000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://suraj-portfolio-omega-five.vercel.app/"><img src="https://img.shields.io/badge/Visit-Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/Challenge_me_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 <br/><br/>
